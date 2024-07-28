@@ -1,0 +1,41 @@
+names:
+  - "0" #0
+  - "1" #1
+  - "10" #2
+  - "11" #3
+  - "12" #4
+  - "13" #5
+  - "14" #6
+  - "15" #7
+  - "16" #8
+  - "17" #9
+  - "18" #A
+  - "19" #B
+  - "2" #C
+  - "20" #D
+  - "21" #E
+  - "22" #F
+  - "23" #G
+  - "24" #H
+  - "25" #K
+  - "26" #L
+  - "27" #M
+  - "28" #N
+  - "29" #P
+  - "3" #S
+  - "4" #T
+  - "5" #U
+  - "6" #V
+  - "7" #X
+  - "8" #Y
+  - "9" #Z
+nc: 30
+roboflow:
+  license: CC BY 4.0
+  project: ocr-unrsj
+  url: https://universe.roboflow.com/oryza-j4jtf/ocr-unrsj/dataset/2
+  version: 2
+  workspace: oryza-j4jtf
+test: ../test/images
+train: D:\dev-viet\yolov8\OCR-2\train
+val: D:\dev-viet\yolov8\OCR-2\valid
